@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T21:51:18.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mLT2BG23NoxbIbBIZRQ3" version="21.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-12T21:52:14.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hIeHghLdOpsV22KkH6-r" version="21.3.0" type="github" pages="4">
   <diagram name="Zad1Rek" id="qdK7pMCC54Lu-OwFu4rN">
     <mxGraphModel dx="1194" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="iiaL1aUJWto9zpetE7Ye-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kHWN-WnV0wKhk5Vj7Pqc-2" target="iiaL1aUJWto9zpetE7Ye-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kHWN-WnV0wKhk5Vj7Pqc-2" value="a,b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kHWN-WnV0wKhk5Vj7Pqc-2" value="NWD_iter(a,b)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iiaL1aUJWto9zpetE7Ye-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iiaL1aUJWto9zpetE7Ye-1" target="iiaL1aUJWto9zpetE7Ye-2">
@@ -251,7 +251,7 @@
         <mxCell id="dBxEvKU5ngAAGgn4B8X3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBxEvKU5ngAAGgn4B8X3-4" target="dBxEvKU5ngAAGgn4B8X3-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dBxEvKU5ngAAGgn4B8X3-4" value="a,b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dBxEvKU5ngAAGgn4B8X3-4" value="NWD(a,b)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dBxEvKU5ngAAGgn4B8X3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBxEvKU5ngAAGgn4B8X3-9" target="dBxEvKU5ngAAGgn4B8X3-11">
